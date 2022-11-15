@@ -68,3 +68,4 @@ The above Image shows the techtonic plates with the earthquake layer
 This Image shows the details of the depth, magnitude and location of the earthquake once the marker is clicked.
 
 
+
