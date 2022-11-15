@@ -38,7 +38,7 @@ Our first task is to visualize an earthquake dataset. Complete the following ste
 
 ### Part 2: Gather and Plot More Data (Optional)
 
-The USGS wants us to plot a second dataset on our map to illustrate the relationship between tectonic plates and seismic activity. So, we will need to pull in this dataset and visualize it alongside your original data. Data on tectonic plates can be found at <https://github.com/fraxen/tectonicplates>.
+The USGS wants us to plot a second dataset on our map to illustrate the relationship between tectonic plates and seismic activity. So, we will need to pull in this dataset and visualize it alongside our original data. Data on tectonic plates can be found at <https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json>.
 
 The following image is an example screenshot of what the USGS would like us to produce:
 
